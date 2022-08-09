@@ -1,14 +1,25 @@
-# Gatsby
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<p align="center">
+  <a href="https://www.gatsbyjs.com">
+    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Gatsby blog starter with Plasmic
+</h1>
 
-This is a [Gatsby](https://www.gatsbyjs.com/) project bootstrapped with [`create-gatsby`](https://www.npmjs.com/package/create-gatsby).
+This Gatsby starter project is fully integrated with [Plasmic](https://plasmic.app) using code components, so that you can use the Plasmic visual editor to design every aspect of your blog.
 
-[Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
+## 🚀 Quick start
 
-[Open in CodeSandbox](https://codesandbox.io/p/github/codesandbox/codesandbox-template-gatsby)
+1. Clone the associated Plasmic starter blog project at https://studio.plasmic.app/projects/923NLKUe8p7wEpEFNU6wLc.
 
-## Resources
+2. Go back to https://studio.plasmic.app, and in the settings menu for your new project, change the app host URL to http://localhost:8000/plasmic-host.
 
-- [CodeSandbox Projects — Docs](https://codesandbox.io/docs/projects)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
-- [Gatsby — GitHub](https://github.com/gatsbyjs/gatsby)
-- [Gatsby — Docs](https://www.gatsbyjs.com/docs/)
+3. Start the dev server
+
+    ```shell
+    gatsby develop
+    ```
+
+4. Open up and make edits to your Plasmic project!
